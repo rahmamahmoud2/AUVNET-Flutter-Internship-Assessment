@@ -121,24 +121,24 @@ flutter run
 ---
 
 ## 📸 Screenshots
+🟡 Splash 
+![Splash](assets/screenshots/splash.png)
 
 ### 🟣 Onboarding Flow
 ![Onboarding1](assets/screenshots/onboarding1.png) ![Onboarding2](assets/screenshots/onboarding2.png) ![Onboarding3](assets/screenshots/onboarding3.png)
 
-
-
 ---
 
-### 🟡 Splash & Authentication
-![Splash](assets/screenshots/splash.png)
-![SignUp](assets/screenshots/signup.png)
-![Login](assets/screenshots/login.png)
+### 🟡 Authentication
+
+![SignUp](assets/screenshots/signup.png) ![Login](assets/screenshots/login.png)
+
 
 ---
 
 ### 🟢 Home Screen
-![Home1](assets/screenshots/home.png)
-![Home2](assets/screenshots/home2.png)
+![Home1](assets/screenshots/home.png) ![Home2](assets/screenshots/home2.png)
+
 
 ---
 
