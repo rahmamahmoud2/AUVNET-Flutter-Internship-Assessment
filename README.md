@@ -123,9 +123,9 @@ flutter run
 ## 📸 Screenshots
 
 ### 🟣 Onboarding Flow
-![Onboarding1](assets/screenshots/onboarding1.png)
-![Onboarding2](assets/screenshots/onboarding2.png)
-![Onboarding3](assets/screenshots/onboarding3.png)
+![Onboarding1](assets/screenshots/onboarding1.png) ![Onboarding2](assets/screenshots/onboarding2.png) ![Onboarding3](assets/screenshots/onboarding3.png)
+
+
 
 ---
 
