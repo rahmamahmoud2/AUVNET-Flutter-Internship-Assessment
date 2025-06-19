@@ -122,7 +122,9 @@ flutter run
 
 ## 📸 Screenshots
 
-_(Add screenshots here)_
+![Onboarding1](assets/screenshots/onboarding1.png)
+
+
 
 ---
 
